@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.welcome{
+    text-align: center;
+    height: 200px;
+    background-image: url("../pic/bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.welcome{
+    color: rgb(226, 9, 9);
+    
+}
+
+.firist{
+    margin-left: 350px;
+    width: 50%;
+    margin-top: 50px;
+    background-color: aquamarine;
+    border: 10px solid #a90ada9f;
+    border-radius: 10px;
+    height: 200px;
+
+    
+
+}
+
+.firist p{
+    text-align: center;
+    padding-top:80px;
+}
+
+
+
+
+
+
+
+
+/*  */
